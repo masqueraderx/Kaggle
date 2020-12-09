@@ -12,10 +12,7 @@ it may overfitting?
 
 ## Visualization
 The loss curve shows the trend. There's some problem with visualization (no markers), this is the problem with my PC. You can check it
-on my Kaggle Notebook or do it yourself.
-<div align=center><img src =https://github.com/masqueraderx/Kaggle/blob/main/titanic/loss.jpg/></div>
-
-The accuracy has the same marker problems.
+on my Kaggle Notebook or do it yourself. The accuracy has the same marker problems.
 <div align=center><img src =https://github.com/masqueraderx/Kaggle/blob/main/titanic/accuracy.jpg/></div>
 
 ## Further to go
