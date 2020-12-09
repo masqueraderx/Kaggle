@@ -16,12 +16,12 @@ on my Kaggle Notebook or do it yourself. The accuracy has the same marker proble
 <div align=center><img src =https://github.com/masqueraderx/Kaggle/blob/main/titanic/accuracy.jpg/></div>
 
 ## Further to go
-**Architecture: **
+**Architecture**
 
 Maybe the architecture of NN networks is not so good. I only set 3 hidden layers. I think maybe you can update the architecture.
 Besides, I think maybe using cross validation to find the appropriate, feasible hyperparameters is another improvement.
 
-**Preprocessing: **
+**Preprocessing**
 
 Maybe the data preprocessing is not so good but I tried.
 
